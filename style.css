@@ -1,6 +1,6 @@
 body{
-    background-color: hsl(271, 52%, 23%);
-    color: #684469;
+    background-color: rgb(107, 55, 156);
+    color: rgb(147, 81, 223);
     margin: 0px;
 }
 
@@ -8,5 +8,10 @@ header{
     border-bottom: solid 2px #050263;
     padding: 20px;
     font-size: 32px;
-    color: #050263;
+    color: hsl(242, 57%, 63%);
+}
+section{
+    blackground-color: hsl(240, 94%, 37%)
+    padding-top: 80px;
+    padding-top: 80px;
 }
