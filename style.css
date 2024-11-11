@@ -11,7 +11,7 @@ header{
     color: rgb(0, 0, 0);
 }
 section{
-    blackground-color: hsl(240, 94%, 37%)
+    background-color: hwb(240 38% 37%);
     padding-top: 80px;
     padding-top: 80px;
     display: flex;
