@@ -1,14 +1,14 @@
 body{
-    background-color: rgb(107, 55, 156);
-    color: rgb(147, 81, 223);
+    background-color: hsl(234, 68%, 67%);
+    color: hsl(251, 77%, 32%);
     margin: 0px;
 }
 
 header{
-    border-bottom: solid 2px #050263;
+    border-bottom: solid 2px hsl(0, 0%, 0%);
     padding: 20px;
     font-size: 32px;
-    color: hsl(242, 57%, 63%);
+    color: rgb(33, 31, 121);
 }
 section{
     blackground-color: hsl(240, 94%, 37%)
