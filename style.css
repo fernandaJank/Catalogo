@@ -1,6 +1,6 @@
 body{
-    background-color: hsl(234, 68%, 67%);
-    color: hsl(251, 77%, 32%);
+    background-color: hwb(236 34% 59%);
+    color: hwb(251 5% 55%);
     margin: 0px;
 }
 
@@ -8,10 +8,12 @@ header{
     border-bottom: solid 2px hsl(0, 0%, 0%);
     padding: 20px;
     font-size: 32px;
-    color: rgb(33, 31, 121);
+    color: rgb(0, 0, 0);
 }
 section{
     blackground-color: hsl(240, 94%, 37%)
     padding-top: 80px;
     padding-top: 80px;
+    display: flex;
+    justify-content: center;
 }
